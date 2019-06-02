@@ -35,6 +35,8 @@ class Game(object):
                 sys.exit()
             elif event.type == pygame.KEYUP:
                 pass
+            elif event.type == pygame.KEYDOWN:
+                pass
             elif event.type in (pygame.MOUSEBUTTONDOWN,
                                 pygame.MOUSEBUTTONUP,
                                 pygame.MOUSEMOTION):
