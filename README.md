@@ -13,7 +13,7 @@ Denis must save his life and the life of people he meets. At the same time, he h
  - Helps in the development of logical thinking
  - Interesting story
 
-### Rampage Game Development Studio
+### Megalodon Game Development Studio
 
 Developers:
 - Programmer - TitaniumHocker(Ivan Fedorov)
